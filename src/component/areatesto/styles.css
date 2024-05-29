@@ -1,0 +1,32 @@
+/*css area testo*/ 
+
+.header {
+    background-color: #591080;
+    color: white;
+    padding: 10px 20px;
+    border-top-right-radius: 5px;
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+.editor {
+    flex-grow: 1;
+    padding: 20px;
+    border: none;
+    font-size: 18px;
+    box-sizing: border-box;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    resize: none;
+    outline: none;
+    font-family: 'Courier New', Courier, monospace;
+    color: #000;
+    font-weight: 700;
+}
+
+.editor:focus {
+    box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.1);
+}

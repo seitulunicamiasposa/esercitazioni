@@ -1,0 +1,32 @@
+[ {
+        "id": 1,
+        "titolo": "Nota 1",
+        "data": "2024-05-01",
+        "contenuto": "Contenuto della nota 1"
+    },
+    {
+        "id": 2,
+        "titolo": "Nota 2",
+        "data": "2024-05-02",
+        "contenuto": "Contenuto della nota 2"
+    },
+    {
+        "id": 3,
+        "titolo": "Nota 3",
+        "data": "2024-05-03",
+        "contenuto": "Contenuto della nota 3"
+    },
+    {
+        "id": 4,
+        "titolo": "Nota 4",
+        "data": "2024-05-03",
+        "contenuto": "Contenuto della nota 4"
+    }, 
+    {
+        "id": 5,
+        "titolo": "Nota 5",
+        "data": "2024-05-03",
+        "contenuto": "Contenuto della nota 5"
+    }
+]
+
